@@ -24,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskansingla18&show_icons=true&locale=en&layout=compact" alt="muskansingla18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskansingla18&" alt="muskansingla18" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhjo7&theme=nord&column=7" alt="sourabhjo7" /></a> </p>
